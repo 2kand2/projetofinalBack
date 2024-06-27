@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\MeuBack</_PublishTargetUrl>
+    <History>True|2024-06-25T23:12:16.0439878Z;True|2024-06-25T20:09:03.5079413-03:00;False|2024-06-25T20:08:46.8531669-03:00;True|2024-06-25T15:26:44.5249108-03:00;False|2024-06-25T15:26:33.8541827-03:00;False|2024-06-25T15:26:25.7603533-03:00;True|2024-06-25T13:24:10.4973307-03:00;False|2024-06-25T13:23:52.6563942-03:00;False|2024-06-25T13:23:32.0822321-03:00;False|2024-06-25T13:21:41.4933756-03:00;False|2024-06-25T13:20:43.8336548-03:00;False|2024-06-25T13:19:48.8481619-03:00;False|2024-06-25T13:18:44.6850571-03:00;True|2024-06-25T13:16:42.3730256-03:00;False|2024-06-25T13:15:28.9408743-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

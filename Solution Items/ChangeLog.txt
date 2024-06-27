@@ -1,0 +1,11 @@
+2024-05-20 Octaciano Kuhn <octaciano11@gmail.com>
+
+* Versão 0.1.0
+
+* WR-11 - Criar e configurar o back parte 1.
+* WR-24 - Criar e configurar o back parte 2.
+* WR-32 - Criar e configurar o back parte 3.
+* WR-33 - Criar e configurar o back parte 4.
+* WR-42 - Criar e configurar o back parte 5.
+* WR-18 - Implementar o JWT no back.
+* WR-20 - Implementar crud Usuário back.
